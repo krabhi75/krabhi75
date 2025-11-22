@@ -1,42 +1,57 @@
 <h1 align="center">👋 Hi, I'm Abhishek Kumar</h1>
 
-🌟 **Product, Data, and AI Practitioner**  
-Currently building impactful products at the intersection of **Product Management, Data-driven decisions & AI automation.**
+<p align="center">
+🌟 <b>Product, Data, and AI Practitioner</b>  
+Currently building impactful products at the intersection of <b>Product Management</b>, <b>Data-driven decisions</b> & <b>AI Automation</b>.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/krabhi75?style=social" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/krabhi75?style=social" alt="Stars"/>
+</p>
 
 ---
 
-### 🔥 What I Work On
-- 🔄 **Product Workflows** – User insights, prioritization, metrics & strategy  
-- 📊 **Data & Analytics** – Pandas, business metrics, dashboards  
-- 🤖 **AI & LLM Ideas** – Practical AI use-cases for business problems  
-- 🧪 **Experiments** – PM case studies + LLM Apps + User tools  
+### 🔥 What I Do
+- 📌 **Product Management** – User insights, prioritization, strategy & PRDs  
+- 📊 **Data Analytics** – Pandas, metrics, dashboards, experimentation  
+- 🤖 **AI & LLM Applications** – Practical business use-cases & automation  
+- 🧪 **Build & Validate** – Hypotheses, experiments & metrics tracking  
 
 ---
 
 ### 🌐 Featured Projects
-| Project | Type | Tech/Approach |
-|--------|------|--------------|
-| 🗳️ [User Feedback Tracker](https://github.com/krabhi75/user-feedback-tracker) | Product Tool | Collects, prioritizes, analyzes feedback |
-| 🎯 [Interview Job Tracker](https://github.com/krabhi75/Interview-Tracker-for-Job-Seekers) | Productivity | Helps job seekers track hiring funnel |
-| 📈 Coming Soon: **Product Analytics Dashboard** | Data + PM | Pandas + Streamlit |
-| 🤖 Coming Soon: **AI Support Assistant** | LLM App | Simple RAG + feedback loop |
+| Project | Type | Description |
+|--------|------|-------------|
+| 🗳️ [User Feedback Tracker](https://github.com/krabhi75/user-feedback-tracker) | Product | Helps collect & prioritize user feedback |
+| 🎯 [Job Interview Tracker](https://github.com/krabhi75/Interview-Tracker-for-Job-Seekers) | PM Tool | Organizes job applications & hiring funnel |
+| 📈 Product Analytics Dashboard *(Coming Soon)* | Data + PM | Insights using Pandas + Streamlit |
+| 🤖 AI Support Assistant *(Coming Soon)* | LLM + PM | Answers support queries using product docs |
 
 ---
 
 ### 🛠️ Skills & Tools
-`Product Strategy` • `Roadmapping` • `User Insights` • `SQL` • `Pandas` • `Streamlit` • `LLMs` • `A/B Testing` • `Metrics Frameworks`
+`Product Strategy` • `User Research` • `Roadmapping` • `A/B Testing`  
+`Metrics Frameworks` • `SQL` • `Python` • `Pandas` • `Streamlit` • `LLMs`
 
 ---
 
-### 📌 Currently
-📍 Working on: **Product Analytics + AI Automation for Businesses**
+### 📌 Current Focus
+📍 Working on:  
+🚀 **Product Analytics + AI Automation for Business Workflows**
 
 ---
 
-### 🚀 Let’s Connect
-🔗 LinkedIn: *(add link)*  
-📧 Email: *(add)*  
+### 🎯 Product Philosophy
+> ⚡ Build products that reduce effort, increase clarity, and amplify outcomes.
 
 ---
 
-⭐ **Check my pinned projects below!**
+### 🤝 Let’s Connect
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/abhishek-kumar75/)*  
+📧 **Email:** *(kr.abhi75@gmail.com)*  
+
+---
+
+⭐ **Explore my projects pinned below!**
