@@ -8,7 +8,7 @@ Currently building impactful products at the intersection of <b>Product Manageme
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/krabhi75?style=social" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/krabhi75?style=social" alt="Stars"/>
+<img src="https://nextleap.app/portfolio/abhishek-kumar-e5n1" alt="Stars"/>
 </p>
 
 ---
