@@ -8,7 +8,7 @@ Currently building impactful products at the intersection of <b>Product Manageme
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/krabhi75?style=social" alt="Followers"/>
-<img src="https://nextleap.app/portfolio/abhishek-kumar-e5n1" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/krabhi75?style=social" alt="Stars"/>
 </p>
 
 ---
@@ -36,7 +36,14 @@ Currently building impactful products at the intersection of <b>Product Manageme
 `Metrics Frameworks` • `SQL` • `Python` • `Pandas` • `Streamlit` • `LLMs`
 
 ---
+#### 🧩 Tech Stacks
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
 
+---
 ### 📌 Current Focus
 📍 Working on:  
 🚀 **Product Analytics + AI Automation for Business Workflows**
