@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hi, I'm Abhishek Kumar</h1>
+👋 Hi, I'm Abhishek Kumar
 
-<p align="center">
-🌟 <b>Product, Data, and AI Practitioner</b>  
-Currently building impactful products at the intersection of <b>Product Management</b>, <b>Data-driven decisions</b> & <b>AI Automation</b>.
-</p>
+AI Product Manager | Data-Driven Decision Maker | Builder of Intelligent Workflows
+
+I design and build AI-powered product experiences that blend user insight, data, and automation.
+My work sits at the intersection of Product Strategy, LLM Workflows, and Practical AI Prototyping.
+
+🌐 Currently: Associate Product Operations Manager @ Capri Global
+🎯 Goal: Transitioning into a full-time AI Product Manager role
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
