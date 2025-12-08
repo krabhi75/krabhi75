@@ -5,8 +5,8 @@ AI Product Manager | Data-Driven Decision Maker | Builder of Intelligent Workflo
 I design and build AI-powered product experiences that blend user insight, data, and automation.
 My work sits at the intersection of Product Strategy, LLM Workflows, and Practical AI Prototyping.
 
-🌐 Currently: Associate Product Operations Manager @ Capri Global
-🎯 Goal: Transitioning into a full-time AI Product Manager role
+🌐 Currently: Product Manager @ Capri Global
+🎯 Goal: Transitioning into AI Product Manager role
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
