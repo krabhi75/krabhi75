@@ -5,7 +5,7 @@ AI Product Manager | Data-Driven Decision Maker | Builder of Intelligent Workflo
 I design and build AI-powered product experiences that blend user insight, data, and automation.
 My work sits at the intersection of Product Strategy, LLM Workflows, and Practical AI Prototyping.
 
-🌐 Currently: Product Manager @ Capri Global
+🌐 Currently: Product Manager @ Capri Global  handling Gold Loan Product
 🎯 Goal: Transitioning into AI Product Manager role
 
 <p align="center">
