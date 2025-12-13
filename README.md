@@ -39,8 +39,9 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 - **Key Decisions:** RAG vs fine-tuning, latency vs accuracy, hallucination control
 - **Success Metrics:** Ticket deflection rate, CSAT, response accuracy, hallucination rate
 - **Risks:** Incorrect answers, outdated documentation, user trust erosion
-- 📄 Case Study PDF: *(linK)*
-- 💻 Repo: *((https://github.com/krabhi75/ai-support-assistant-case-study.git))*
+- 📄 Case Study: [AI Support Assistant for SaaS Products – v0.1](https://github.com/krabhi75/ai-support-assistant-case-study/blob/576f09492eb36abf5c18033b580b5c767570bc2d/artifacts/AI_Support_Assistant_Case_Study_v0.1.pdf)
+
+- 💻 Repo: *(https://github.com/krabhi75/ai-support-assistant-case-study.git)*
 
 ---
 
@@ -50,7 +51,8 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 - **Approach:** Metrics-first analytics using Pandas + Streamlit
 - **Key Metrics:** Activation rate, cohort retention, conversion funnels
 - **Outcome Goal:** Faster decision-making and clearer prioritization
-- 📄 Metrics Framework PDF: *(linK)*
+- 📄 Case Study (problem framing, metrics, and decisions) [Product Analytics Dashboard – v0.1](https://github.com/krabhi75/ai-product-analytics-copilot/blob/12050ae7efd736094668d2f266c336c2aeb5ac76/artifacts/Product_Analytics_Dashboard_Case_Study_v0.1.pdf)
+
 - 💻 Repo: *(https://github.com/krabhi75/ai-product-analytics-copilot.git)*
 
 ---
