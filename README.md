@@ -10,9 +10,19 @@ My work sits at the intersection of **Product Strategy, LLM-enabled systems, ana
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krabhi75" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/krabhi75?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/krabhi75?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/krabhi75?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/krabhi75?style=social" alt="GitHub Stars"/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumar75/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://blog.homekarts.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Product%20%26%20AI%20Insights-000000?logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
 
 ---
 
