@@ -97,7 +97,7 @@ I document key product and AI decisions to ensure clarity, alignment, and measur
 - Success metrics and experimentation plans
 - Risk, safety, and guardrail design
 
-📄 Artifacts available inside individual project repositories.
+📁 Repository: https://github.com/krabhi75/ai-product-decision-artifacts
 
 ---
 
