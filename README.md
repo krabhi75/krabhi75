@@ -29,8 +29,8 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 - **Key Decisions:** RAG vs fine-tuning, latency vs accuracy, hallucination control
 - **Success Metrics:** Ticket deflection rate, CSAT, response accuracy, hallucination rate
 - **Risks:** Incorrect answers, outdated documentation, user trust erosion
-- 📄 Case Study PDF: *(Add link here)*
-- 💻 Repo: *(Add repo link here)*
+- 📄 Case Study PDF: *(linK)*
+- 💻 Repo: *((https://github.com/krabhi75/ai-support-assistant-case-study.git))*
 
 ---
 
@@ -40,8 +40,8 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 - **Approach:** Metrics-first analytics using Pandas + Streamlit
 - **Key Metrics:** Activation rate, cohort retention, conversion funnels
 - **Outcome Goal:** Faster decision-making and clearer prioritization
-- 📄 Metrics Framework PDF: *(Add link here)*
-- 💻 Repo: *(Add repo link here)*
+- 📄 Metrics Framework PDF: *(linK)*
+- 💻 Repo: *(https://github.com/krabhi75/ai-product-analytics-copilot.git)*
 
 ---
 
@@ -58,10 +58,11 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 
 | Project | Type | Description |
 |-------|------|-------------|
-| 🗳️ [User Feedback Tracker](https://github.com/krabhi75/user-feedback-tracker) | Product | Collects, categorizes & prioritizes user feedback |
-| 🎯 [Job Interview Tracker](https://github.com/krabhi75/Interview-Tracker-for-Job-Seekers) | PM Tool | Organizes job applications and hiring funnels |
-| 📈 Product Analytics Dashboard | Data + PM | Metrics-driven insights using Pandas & Streamlit |
-| 🤖 AI Support Assistant | LLM + PM | AI-based support query resolution using docs |
+| 🗳️ [AI Support Assistant with Guardrails](https://github.com/krabhi75/ai-support-assistant-case-study.git) | AI Product Case Study (LLM + RAG) | Designs a guarded AI support assistant that reduces L1 ticket volume using RAG, with clear accuracy, latency, and hallucination controls. |
+| 🎯 [AI-Powered Product Analytics Copilot](https://github.com/krabhi75/ai-product-analytics-copilot.git) | AI Product Analytics (LLM + Data) | An AI copilot that converts natural-language product questions into reliable insights while preserving metric accuracy and explainability. |
+| 📈 [AI Workflow Automation for Operations (Fintech)](https://github.com/krabhi75/ai-workflow-automation-fintech.git) |AI Operations Product (Automation + HITL) | Automates repetitive operational workflows using AI with human-in-the-loop safeguards to balance efficiency, risk, and compliance. |
+| 📈 [Prompt Evaluation & Quality Framework](https://github.com/krabhi75/prompt-evaluation-framework.git) | AI Product Framework (Prompt Engineering) | A structured framework to evaluate, compare, and ship production-ready prompts using defined quality metrics and failure analysis. |
+| 🤖 [AI Feature Rollout & Experimentation Playbook](https://github.com/krabhi75/ai-feature-rollout-playbook.git) |AI Product Strategy (Launch & Experimentation) | A practical playbook for safely launching AI features with beta gating, guardrails, success metrics, and kill criteria. |
 
 ---
 
@@ -78,15 +79,15 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 
 ## 📂 Decision Artifacts & Product Docs
 
-I believe strong products are built through **clear decisions and documented trade-offs**.
+I document key product and AI decisions to ensure clarity, alignment, and measurable outcomes.
 
-- Product Requirement Documents (PRDs)
-- AI-specific assumptions & constraints
-- Prompt design iterations & evaluations
-- Metrics definitions & experiment plans
-- Post-launch learnings & outcome reviews
+- Problem framing & non-goals
+- Assumptions and hypothesis validation
+- AI model and system trade-offs
+- Success metrics and experimentation plans
+- Risk, safety, and guardrail design
 
-📄 Selected PDFs & Docs: *(Links added inside respective repos)*
+📄 Artifacts available inside individual project repositories.
 
 ---
 
