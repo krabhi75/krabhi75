@@ -1,4 +1,4 @@
-👋 Hi, I'm Abhishek Kumar  
+Hi, I'm Abhishek Kumar  
 
 AI Product Manager | Building AI Products with Clear Metrics, Guardrails & User Impact  
 
@@ -26,13 +26,13 @@ My work sits at the intersection of **Product Strategy, LLM-enabled systems, ana
 
 ---
 
-## 🧠 AI Product Case Studies (Proof of Work)
+##  AI Product Case Studies (Proof of Work)
 
 Below are selected **AI product case studies** where I applied structured product thinking, metrics frameworks, and AI capabilities to solve real problems.
 
 Each case includes: **problem framing, assumptions, solution design, AI trade-offs, success metrics, risks, and learnings**.
 
-### 🤖 AI Support Assistant for SaaS Products *(In Progress – v0.1)*
+###  AI Support Assistant for SaaS Products *(In Progress – v0.1)*
 - **Problem:** High L1 support volume causing delayed resolutions and higher operational cost
 - **Users:** End customers & support agents
 - **AI Approach:** Retrieval-Augmented Generation (RAG) over product documentation
@@ -57,7 +57,7 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 
 ---
 
-## 🔥 What I Do
+##  What I Do
 
 - 📌 **Product Management** – Problem discovery, user insights, prioritization, PRDs & roadmap alignment  
 - 📊 **Data Analytics** – Pandas-based analysis, dashboards, experimentation & KPI tracking  
@@ -78,7 +78,7 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 
 ---
 
-## 🧠 How I Think as an AI Product Manager
+##  How I Think as an AI Product Manager
 
 - Start with **user pain**, not AI capability
 - Use AI only when it meaningfully improves **speed, quality, or cost**
@@ -122,12 +122,12 @@ I document key product and AI decisions to ensure clarity, alignment, and measur
 
 ## 📌 Current Focus
 
-🚀 **Product Analytics + AI Automation for Business Workflows**  
+ **Product Analytics + AI Automation for Business Workflows**  
 Building AI-enabled systems that reduce manual effort and improve decision clarity.
 
 ---
 
-## 🎯 Product Philosophy
+##  Product Philosophy
 
 > Build products that reduce effort, increase clarity, and amplify outcomes.
 
