@@ -32,7 +32,7 @@ Below are selected **AI product case studies** where I applied structured produc
 
 Each case includes: **problem framing, assumptions, solution design, AI trade-offs, success metrics, risks, and learnings**.
 
-###  AI Support Assistant for SaaS Products *(In Progress – v0.1)*
+###  AI Support Assistant for SaaS Products 
 - **Problem:** High L1 support volume causing delayed resolutions and higher operational cost
 - **Users:** End customers & support agents
 - **AI Approach:** Retrieval-Augmented Generation (RAG) over product documentation
@@ -45,7 +45,7 @@ Each case includes: **problem framing, assumptions, solution design, AI trade-of
 
 ---
 
-### 📈 Product Analytics Dashboard *(In Progress – v0.1)*
+###  Product Analytics Dashboard 
 - **Problem:** PMs lacked visibility into feature adoption and funnel drop-offs
 - **Users:** Product & Business teams
 - **Approach:** Metrics-first analytics using Pandas + Streamlit
